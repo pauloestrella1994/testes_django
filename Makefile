@@ -7,3 +7,6 @@ makemigrations:
 migrate:
 	poetry run python sorveteria/manage.py migrate
 
+env:
+	cp local.env .env
+
