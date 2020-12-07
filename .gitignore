@@ -69,3 +69,8 @@ target/
 .pytest_cache
 
 .swp
+.vscode
+
+db.sqlite3
+
+migrations/
